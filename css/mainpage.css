@@ -1,0 +1,18 @@
+
+
+body {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    overflow: 0;
+}
+
+.bg {
+    width: 100vw;
+    height: 100vh;
+    background-color: #2C2125;
+    margin: 0;
+    overflow: 0;
+}

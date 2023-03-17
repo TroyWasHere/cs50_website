@@ -1,0 +1,26 @@
+
+body {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    overflow: hidden;
+}
+
+.bg {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif');
+    background-position: center;
+    background-repeat:none;
+    background-size: cover;
+    filter: blur(30px);
+    position: absolute;
+    z-index: -1;
+}
+
+.loading-text {
+    font-size: 50px;
+    color: #ffffff;
+}

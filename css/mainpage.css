@@ -13,6 +13,18 @@ body {
     width: 100vw;
     height: 100vh;
     background-color: #2C2125;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
     margin: 0;
     overflow: 0;
+}
+
+.bg button {
+    cursor: pointer;
+    position: absolute;
+    width: 70px;
+    height: 35px;
+    font-size: 8px;
 }

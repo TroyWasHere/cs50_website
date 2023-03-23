@@ -12,7 +12,7 @@ body {
 .container {
     width: 100vw;
     height: 100vh;
-    background-color: #2C2125;
+    background: linear-gradient(90deg, #1c2326 0%, #5d61d5 100%)
     background-position: center;
     align-items: center;
     justify-content: center;

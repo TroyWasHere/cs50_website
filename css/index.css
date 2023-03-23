@@ -30,3 +30,7 @@ body {
     background-color: #3bc4b4;
     margin: 2px;
 }
+
+a {
+    z-index: 100;
+}

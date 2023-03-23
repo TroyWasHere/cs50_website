@@ -22,13 +22,11 @@ body {
     z-index: -1;
 }
 
-.bg button {
+.box {
+    font-size: 14px;
     cursor: pointer;
     width: 80px;
     height: 55px;
-    font-size: 8px;
-}
-
-.box {
-    font-size: 18px;
+    background-color: #3bc4b4;
+    margin: 2px;
 }

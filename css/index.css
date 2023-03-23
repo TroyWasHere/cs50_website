@@ -12,7 +12,8 @@ body {
 .container {
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(90deg, #1c2326 0%, #5d61d5 100%)
+    background: rgb(25,16,222);
+    background: linear-gradient(90deg, rgba(25,16,222,1) 0%, rgba(47,47,108,1) 38%, rgba(27,34,36,1) 92%);
     background-position: center;
     align-items: center;
     justify-content: center;
@@ -27,7 +28,7 @@ body {
     cursor: pointer;
     width: 80px;
     height: 55px;
-    background-color: #3bc4b4;
+    background-color: #000000;
     margin: 2px;
     border-radius: 4px;
 }

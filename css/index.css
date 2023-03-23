@@ -36,3 +36,9 @@ body {
 .box:hover {
     transform: scale(98%);
 }
+
+div + div + a {
+    text-transform: uppercase;
+    color: white;
+    margin: 40px 0;
+}

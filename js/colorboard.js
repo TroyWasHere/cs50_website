@@ -6,5 +6,10 @@ for (let i = 0; i <= SQUARES; i++) {
     const square = document.createElement('div')
     square.classList.add('square')
     container.appendChild(square)
-    square.addEventListener(')
+    square.addEventListener('mouseover', () => setColor(square))
+}
+
+function setColor(square) {
+    const color = colors[0]
+    square.style.background = color
 }

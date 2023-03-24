@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: darksalmon;
+    background-color: powderblue;
     display: flex;
     flex-direction: column;
     height: 100vh;
@@ -25,7 +25,7 @@ input {
     width: 50px;
     padding: 5px;
     font-size: 18px;
-    background-color: darksalmon;
+    background-color: powderblue;
     border: none;
     text-align: center;
 }

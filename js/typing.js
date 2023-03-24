@@ -1,6 +1,6 @@
 const textElement = document.getElementById('text')
 const speedElement = document.getElementById('speed')
-const text = "Make Money Fuck Bitches"
+const text = ""
 let idx = 1
 let speed = 300 / speedElement.value
 

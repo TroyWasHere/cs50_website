@@ -1,6 +1,6 @@
 const textElement = document.getElementById('text')
 const speedElement = document.getElementById('speed')
-const text = ""
+const text = "Out-typed by a block of code L Bozo!!"
 let idx = 1
 let speed = 300 / speedElement.value
 
